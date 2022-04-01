@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+
+
+# environment file
+config.env
+
+# public files
+/public/*
